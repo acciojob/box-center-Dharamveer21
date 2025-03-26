@@ -14,12 +14,12 @@ body {
     width: 200px;
     height: 200px;
 
-	border: 2px solid black;
-	
+    border: 2px solid black;
+
     display: flex;
     justify-content: center;
     align-items: center;
 
-    background-color: skyblue;
+    background-color: lightblue;
     color: purple;
 }
